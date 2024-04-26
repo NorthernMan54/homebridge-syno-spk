@@ -13,7 +13,7 @@ This third-party Synology Package simplifies the process of running [Homebridge]
 ## Supported Models
 
 * **x86_64** - All 64 bit Intel / AMD CPU Models ( braswell )
-* **evansport** (i686) - DS214play, DS414play, DS415play ( evansport )
+* **evansport** (i686) - DS414play, DS415play ( evansport )
 * **rtd1296** (armv8) - DS420j, DS220j, RS819, DS418, DS218, DS218play, DS118
 * **rtd1619b** (armv8) - DS124, DS223, DS223j, DS423
 * **armada37xx** (armv8) - DS120j, DS119j
@@ -24,6 +24,9 @@ This third-party Synology Package simplifies the process of running [Homebridge]
 
 * **comcerto2k** - DS-414j do not support nodeJS
 
+### NodeJS 20 Not available
+
+* DS214play
 
 ## Installation
 
